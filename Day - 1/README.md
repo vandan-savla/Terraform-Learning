@@ -1,1 +1,1 @@
-["architectureDiagram"](./arch_diagram.png)
+<img src="arch_diagram.png"/>
